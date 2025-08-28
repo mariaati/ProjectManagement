@@ -1,0 +1,4 @@
+title,main_topic,description,submission_year,study_track,faculty_id,github_link,live_link,youtube_link,document_link,technologies
+"Project A","AI","An AI project",2024,"Computer Science",1,"https://github.com/user/project-a","https://live.projecta.com","https://youtube.com/vid1","https://docs.projecta.com","1,3,5"
+"Project B","Web Development","Website for e-commerce",2023,"Information Systems",2,"https://github.com/user/project-b","","https://youtube.com/vid2","https://docs.projectb.com","2,4"
+"Project C","Mobile App","Mobile app for health tracking",2025,"Software Engineering",3,"https://github.com/user/project-c","https://live.projectc.com","","","1,2"
